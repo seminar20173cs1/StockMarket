@@ -1,0 +1,23 @@
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\obj\x86\Debug\StockMarket.frmProvince.resources
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\obj\x86\Debug\StockMarket.Properties.Resources.resources
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\obj\x86\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\obj\x86\Debug\StockMarket.exe
+C:\Users\Thongsing\AppData\Local\Temporary Projects\StockMarket\obj\x86\Debug\StockMarket.pdb
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.exe
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.pdb
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmDistrict.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmProvince.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.Properties.Resources.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.csproj.GenerateResource.Cache
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmVillage.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.csprojResolveAssemblyReference.cache
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmCustomer.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmProduct.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmOrderProduct.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmReportOrderBill.resources
+D:\Lecture C# 2016-2017\StockMarket\StockMarket\obj\x86\Debug\StockMarket.frmReportProduct.resources
